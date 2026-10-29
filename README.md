@@ -18,7 +18,7 @@ Construo aplicações web e gosto de transformar ideias em produtos simples de u
 
 ## Sobre mim
 
-Sou desenvolvedor web full stack em Florianópolis, SC. Trabalho principalmente com **PHP, Laravel, JavaScript e Vue.js**, criando aplicações web, SPAs e PWAs.
+Sou desenvolvedor web full stack há 14 anos, em Florianópolis, SC. Trabalho principalmente com **PHP, Laravel, JavaScript e Vue.js**, criando aplicações web, SPAs, PWAs e projetos com SSR.
 
 Gosto de atuar nas diferentes partes de um produto: da interface e experiência de uso às regras de negócio e integração com o backend.
 
