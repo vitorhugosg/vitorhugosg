@@ -1,0 +1,46 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vitor Hugo — Desenvolvedor Web Full Stack</title>
+  <desc id="desc">Banner escuro com detalhes em azul e verde, apresentando Laravel e Vue.js.</desc>
+  <defs>
+    <linearGradient id="background" x1="35" y1="0" x2="1165" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101827"/>
+      <stop offset="0.58" stop-color="#172554"/>
+      <stop offset="1" stop-color="#102E32"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="60" x2="670" y2="280" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="770" y1="24" x2="1110" y2="304" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#34D399" stop-opacity="0.05"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="340" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="340" rx="28" fill="url(#grid)"/>
+  <circle cx="1030" cy="172" r="202" fill="url(#glow)"/>
+  <path d="M0 286C189 248 307 322 483 278C620 244 731 239 874 279C1017 319 1091 301 1200 262V340H0V286Z" fill="#0B1220" fill-opacity="0.34"/>
+  <rect x="76" y="76" width="5" height="186" rx="2.5" fill="url(#accent)"/>
+  <text x="111" y="125" fill="#A5F3FC" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3.2">OLÁ, EU SOU</text>
+  <text x="108" y="194" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.8">Vitor Hugo</text>
+  <text x="111" y="237" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="400">Desenvolvedor Web Full Stack</text>
+  <rect x="111" y="266" width="112" height="34" rx="17" fill="#0F766E" fill-opacity="0.35" stroke="#5EEAD4" stroke-opacity="0.42"/>
+  <text x="133" y="288" fill="#99F6E4" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">LARAVEL</text>
+  <rect x="235" y="266" width="103" height="34" rx="17" fill="#166534" fill-opacity="0.3" stroke="#86EFAC" stroke-opacity="0.4"/>
+  <text x="256" y="288" fill="#BBF7D0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">VUE.JS</text>
+  <g opacity="0.72">
+    <rect x="795" y="83" width="321" height="178" rx="18" fill="#0B1220" fill-opacity="0.78" stroke="#94A3B8" stroke-opacity="0.23"/>
+    <circle cx="821" cy="108" r="5" fill="#FB7185"/>
+    <circle cx="840" cy="108" r="5" fill="#FBBF24"/>
+    <circle cx="859" cy="108" r="5" fill="#34D399"/>
+    <path d="M828 159L851 178L828 197" stroke="#5EEAD4" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M870 202H920" stroke="#60A5FA" stroke-width="7" stroke-linecap="round"/>
+    <path d="M958 151H1033" stroke="#A78BFA" stroke-width="7" stroke-linecap="round"/>
+    <path d="M958 176H1080" stroke="#38BDF8" stroke-width="7" stroke-linecap="round"/>
+    <path d="M958 201H1022" stroke="#34D399" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="1061" cy="218" r="5" fill="#5EEAD4"/>
+  </g>
+</svg>
